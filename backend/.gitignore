@@ -1,0 +1,11 @@
+# Environment files
+.env
+.env.local
+
+# Build folders
+node_modules
+.next
+dist
+
+# Uploads
+uploads
